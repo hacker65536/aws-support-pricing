@@ -1,0 +1,7 @@
+# AWS support Plan Pricing
+
+https://aws.amazon.com/premiumsupport/pricing/
+
+| Developer                                           | Business                                                                                                                                                                                              | Enterprise                                                                                                                                                                                               |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Greater of \$29.00 - or - 3% of monthly AWS charges | Greater of $100.00 - or - 10% of monthly AWS charges for the first $0--$10K 7% of monthly AWS charges from $10K--$80K 5% of monthly AWS charges from $80K--$250K 3% of monthly AWS charges over $250K | Greater of $15,000.00 - or - 10% of monthly AWS charges for the first $0--$150K 7% of monthly AWS charges from $150K--$500K 5% of monthly AWS charges from $500K--$1M 3% of monthly AWS charges over $1M |
